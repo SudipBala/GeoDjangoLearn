@@ -1,0 +1,6 @@
+.png
+__pycache__/
+migrations/
+.idea/
+*.pyc
+db.sqlite3
